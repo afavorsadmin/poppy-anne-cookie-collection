@@ -1,0 +1,4 @@
+.env*
+*.sqlite
+*.tar.gz
+source-archive
